@@ -1,4 +1,4 @@
-#                                 MUHAMMAD UMAIR:
+#                                 MUHAMMAD UMAIR
 I am a Computer Science student pursuing my degree at the National University of Modern Languages (NUML).<br> I am currently focused on learning Flask and building a strong foundation in backend web development. <br>I have a keen interest in web and artificial intelligence development, where I enjoy creating practical, scalable, and user-focused solutions.<br>Alongside my academic and technical pursuits, I am also a passionate gamer, which has strengthened my problem-solving skills, strategic thinking, and ability to work under pressure.<br> I am continuously learning and improving my skills to grow as a professional developer.
 
 
